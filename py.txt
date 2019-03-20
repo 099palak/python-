@@ -1,6 +1,7 @@
 # my first problem sample for github
-# it's a program to reverse a string
- 
+# it's a program to reverse a string.
+
+string is a collection of characters. 
  it can be done in onle one line through the use of python.
  it's really a tough job if u want to do it with C lang.
  i hope you would like it.
